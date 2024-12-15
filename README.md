@@ -1,5 +1,5 @@
 <div id="main" align="left">
-  ## Hi there 👋
+  <h2>Hi there 👋 </h2>
 
 - 🌱 I’m currently learning Web Development Technologies in Frontend Backend and Databases (MongoDB) at the DCI. :octocat:
 
@@ -10,7 +10,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Michael-Mew2&repo=final-Project)](https://https://github.com/Michael-Mew2/final-Project)
 
   <div id="contact">
-    #### 📫 How to reach me:
+    <h3>📫 How to reach me:</h3> </br>
     <a href="https://www.linkedin.com/in/michael-d-3019151b9">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
@@ -25,7 +25,7 @@
     </a>
 </div>
 <div id="languages">
-  #### 👨🏻‍💻 Languages and Tools <br />
+  <h3>👨🏻‍💻 Languages and Tools</h3> <br />
   <img src="https://img.shields.io/badge/HTML-white?style=for-the-badge&logo=html5" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-orange?style=for-the-badge&logo=css3" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript" alt="JavaScript" />
