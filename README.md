@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Web Development Technologies in Frontend Backend and Databases (MongoDB) at the DCI. :octocat:
 
-🚀 Some of my main projects:
+<h3>🚀 Some of my main projects:</h3>
 
 - 🔭 I’m currently working on a Fullstack-Project in React, MongoDB and Node:
 
