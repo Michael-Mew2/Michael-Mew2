@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react" alt="REACT" />
   <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Figma-grey?style=for-the-badge&logo=figma" alt="MongoDB" />
   
 </div>
 </div>
