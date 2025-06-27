@@ -5,7 +5,7 @@
 
 <h1 align="center">Moin*👋, I'm Michael</h1>
 <h3 align="center">A passionate full-stack web-developer from the north sea</h3>
-<p align="center"><img align="center" src="https://www.codewars.com/users/Michael-Mew2/badges/large" alt="codewars" /></p>
+<p align="center"><a href="https://www.codewars.com/users/Michael-Mew2"><img align="center" src="https://www.codewars.com/users/Michael-Mew2/badges/large" alt="codewars" /></a></p>
 <hr />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-mew2&theme=nord" alt="michael-mew2" /></a> </p>
