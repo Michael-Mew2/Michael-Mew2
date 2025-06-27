@@ -2,9 +2,10 @@
   <img align="center" src="https://media.licdn.com/dms/image/v2/D4E16AQGZY0cKPQwCeQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728565044163?e=1747267200&v=beta&t=iEt15GtYuiPGr4qcrrp-lZj1pFPnPeUeALVY_NpZdL0" alt="My banner" />
 </p>
 
+
 <h1 align="center">Moin*👋, I'm Michael</h1>
 <h3 align="center">A passionate full-stack web-developer from the north sea</h3>
-
+<p align="center"><img align="center" src="https://www.codewars.com/users/Michael-Mew2/badges/large" alt="codewars" /></p>
 <hr />
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michael-mew2&theme=nord" alt="michael-mew2" /></a> </p>
