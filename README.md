@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **contact.michaels.website@gmail.com**
 
-- ⚡ Fun fact **I have lot of ideas and always happy to start them, but I have problems of letting go so it's always super hard for me to finish projects**
+- ⚡ Fun fact **I have lot of ideas and always happy to start them**
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=michael-mew2&label=Profile%20views&color=0e75b6&style=flat" alt="michael-mew2" /> </p>
 
